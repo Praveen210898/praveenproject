@@ -25,6 +25,8 @@ public class sampletest {
 
 	}
 
-
+	private void methodd() {
+		System.out.println("her name is pooja");
+	}
 
 }
