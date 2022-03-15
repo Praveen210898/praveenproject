@@ -6,8 +6,8 @@ public class sampletest {
 		sampletest s=new sampletest();
 		s.methoda();
         s.methodb();
-
-
+        s.methodc();
+        s.methodd();
 
 	}
 
@@ -16,11 +16,17 @@ public class sampletest {
 	}
 
 	private void methodb() {
-		System.out.println("his name is vani");
+		System.out.println("her name is vani");
+
+	}
+    
+	private void methodc() {
+		System.out.println("her name is tharani");
 
 	}
 
-
-
+	private void methodd() {
+		System.out.println("her name is pooja");
+	}
 
 }
