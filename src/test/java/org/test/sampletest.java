@@ -7,7 +7,7 @@ public class sampletest {
 		s.methoda();
         s.methodb();
         s.methodc();
-
+        s.methodd();
 
 	}
 
